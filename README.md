@@ -1,6 +1,8 @@
 #  Tela Login e Cadastro 
 
 <p align="center">
+<a href="https://www.google.com.br/" target="_blank">Clique aqui para abrir o projeto no navegador</a> 
+<br><br>
 <img src="#" alt="GIF de demonstração do projeto">
 </p>
 
