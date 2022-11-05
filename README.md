@@ -1,5 +1,7 @@
 #  Tela Login e Cadastro 
 
+<a href="http://example.com/" target="_blank">example</a>
+
 <div align="center">
 <p><a href="https://falcaomm.github.io/tela-login-cadastro/" target="_blank">Clique aqui</a> para abrir o projeto no navegador<p/>
 <img src="#" alt="GIF de demonstração do projeto">
@@ -22,4 +24,4 @@
 - [ ] Visualização de senha; 
 - [ ] Validação de formulário;
 
-### 📌 [Projeto Figma](https://www.figma.com/file/2xaNVaPZKCylb4CYQCuJCH/login%2Fcadastro?node-id=0%3A1)
+### 📌 [Projeto Figma](https://www.figma.com/file/2xaNVaPZKCylb4CYQCuJCH/login%2Fcadastro?node-id=0%3A1){:target="_blank"}
