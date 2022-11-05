@@ -1,12 +1,11 @@
 #  Tela Login e Cadastro 
 
-<p align="center">
-<a href="https://www.google.com.br/" target="_blank">Clique aqui para abrir o projeto no navegador</a> 
-<br><br>
+<div align="center">
+<p><a href="https://falcaomm.github.io/tela-login-cadastro/" target="_blank">Clique aqui</a> para abrir o projeto no navegador<p/>
 <img src="#" alt="GIF de demonstração do projeto">
-</p>
+</div>
 
-> Projeto em desenvolvimento de uma tela de login/cadastro a partir de um layout do figma, sem utilização de frameworks, treinando conhecimentos adquiridos até o momento. 
+> Projeto em desenvolvimento de uma tela de login/cadastro a partir de um layout do figma, sem utilização de frameworks, treinando conhecimentos de base adquiridos até o momento. 
 
 ## 💻 Tecnologias: 
 * HTML;
