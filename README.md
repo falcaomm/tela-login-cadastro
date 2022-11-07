@@ -1,7 +1,7 @@
 #  Tela Login e Cadastro 
 
 <div align="center">
-<p><a href="https://falcaomm.github.io/tela-login-cadastro/">Clique aqui</a> para abrir o projeto no navegador<p/>
+<p><a href="https://falcaomm.github.io/tela-login-cadastro/">Clique aqui</a> para abrir no navegador<p/>
 <img src="#" alt="GIF de demonstração do projeto">
 </div>
 
