@@ -5,7 +5,7 @@
 <img src="#" alt="GIF de demonstração do projeto">
 </div>
 
-> Projeto em desenvolvimento de uma tela de login/cadastro a partir de um layout do figma, sem utilização de frameworks, treinando conhecimentos de base adquiridos até o momento. 
+> Desenvolvimento de uma tela de login/cadastro a partir de um layout do figma, sem utilização de frameworks. O principal objetivo é praticar conhecimentos básicos de CSS.
 
 ## 💻 Tecnologias: 
 * HTML;
@@ -20,6 +20,5 @@
 - [x] JavaScript para interação com usuário - DOM; 
 - [ ] Dark Mode; 
 - [ ] Visualização de senha; 
-- [ ] Validação de formulário;
 
 ### 📌 [Projeto Figma](https://www.figma.com/file/2xaNVaPZKCylb4CYQCuJCH/login%2Fcadastro?node-id=0%3A1)
