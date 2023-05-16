@@ -1,11 +1,11 @@
-#  Tela Login e Cadastro responsiva
+#  Tela Login e Cadastro Responsiva
 
 <div align="center">
 <img src="https://github.com/falcaomm/tela-login-cadastro/assets/108558119/aa15f08f-63e3-4023-bc98-8ebffb8df2a1" alt="Imagem de demonstração do projeto" width="70%">
   <p><a href="https://falcaomm.github.io/tela-login-cadastro/">Clique aqui</a> para abrir no navegador<p/>
 </div>
 
-> Desenvolvimento de uma tela de login/cadastro responsiva a partir de um layout do figma, sem utilização de frameworks. O principal objetivo é praticar conhecimentos básicos de CSS.
+> Desenvolvimento de uma tela de login/cadastro responsiva a partir de um layout do figma, sem utilização de frameworks. O principal objetivo é praticar conhecimentos básicos de CSS e responsividade.
 
 ## 💻 Tecnologias: 
 * HTML;
